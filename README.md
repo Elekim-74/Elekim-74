@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Elekim-74, but people call me El.
+- 👀 I’m interested in learning to code, Linux is something I'd love to be fluent in.
+- 🌱 I’m currently learning python as part of a certificate IV
